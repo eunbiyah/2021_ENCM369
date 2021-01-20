@@ -1,2 +1,3 @@
 firstname,lastname,email,git_username,repository_name
 Eunbi,Park, eunbi.park@ucalgary.ca, eunbiyah, 2021_ENCM369
+Miki,Rowbottom, miki.rowbottom@ucalgary.ca,mikirowbottom,2021_ENCM369
